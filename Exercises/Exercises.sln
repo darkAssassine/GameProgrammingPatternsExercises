@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "Exercises\CommandPattern.csproj", "{C57DBB05-9E0D-4FB8-8F9B-707E582835EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "Exercises\CommandPattern.csproj", "{C57DBB05-9E0D-4FB8-8F9B-707E582835EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{553B4352-6478-45F8-AADC-7F524D207875}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C57DBB05-9E0D-4FB8-8F9B-707E582835EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C57DBB05-9E0D-4FB8-8F9B-707E582835EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C57DBB05-9E0D-4FB8-8F9B-707E582835EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553B4352-6478-45F8-AADC-7F524D207875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553B4352-6478-45F8-AADC-7F524D207875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553B4352-6478-45F8-AADC-7F524D207875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553B4352-6478-45F8-AADC-7F524D207875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
