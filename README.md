@@ -5,8 +5,8 @@ I try to implement one chapter/topic from the book [Game Programming Patterns](h
 
 ### Design Patterns Revisited:
 
-- [ ] Command
-- [ ] Flyweight
+- [x] Command
+- [x] Flyweight
 - [ ]  Observer
 - [ ] Prototype
 - [ ] Singleton
