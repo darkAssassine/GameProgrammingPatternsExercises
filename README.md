@@ -1,4 +1,4 @@
-# Game Programming Patterns Exercises
+# Game Programming Patterns Exercises (work in progress)
 I try to implement one chapter/topic from the book [Game Programming Patterns](https://gameprogrammingpatterns.com "Game Programming Patterns") every workday until I complete the book.
 
 ## Table of Contents
@@ -7,7 +7,7 @@ I try to implement one chapter/topic from the book [Game Programming Patterns](h
 
 - [x] Command
 - [x] Flyweight
-- [ ]  Observer
+- [x]  Observer
 - [ ] Prototype
 - [ ] Singleton
 - [ ] State
