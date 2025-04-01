@@ -26,7 +26,7 @@
 
         private static string CreateRandomSentence()
         {
-            return RandomSubject()+RandomVerb()+RandomObject()+"\n";
+            return RandomSubject() + RandomVerb() + RandomObject() + "\n";
         }
 
         private static string RandomSubject()
@@ -36,7 +36,7 @@
             return subjects[rand.Next(subjects.Length)];
         }
 
-        private static string RandomVerb() 
+        private static string RandomVerb()
         {
             string[] verbs = { "ate ", "had ", "makes ", "codes ", "hates ", "writes ", "lost " };
             Random rand = new Random();

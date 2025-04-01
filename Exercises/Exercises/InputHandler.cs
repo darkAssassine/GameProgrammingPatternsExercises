@@ -79,13 +79,13 @@
         }
 
         // had long delays
-        public bool IsKeyDown(ConsoleKey key)
+        public bool IsKeyDown(ConsoleKey _key)
         {
             if (Console.KeyAvailable)
             {
                 ConsoleKey pressedKey = Console.ReadKey(true).Key;
 
-                if (key == pressedKey)
+                if (_key == pressedKey)
                 {
                     return true;
                 }

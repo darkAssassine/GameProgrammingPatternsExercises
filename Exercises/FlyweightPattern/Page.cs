@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace FlyweightPattern
+﻿namespace FlyweightPattern
 {
     internal class Page
     {
@@ -16,7 +14,7 @@ namespace FlyweightPattern
 
         public void Print()
         {
-            Debug.Write($"{layout.Header}{body}{layout.Author}{layout.Ad}{PageNumber}{layout.End}");
+            Console.Write($"{layout.Header}{body}{layout.Ad}{layout.Author}Page {PageNumber}{layout.End}");
         }
     }
 }
