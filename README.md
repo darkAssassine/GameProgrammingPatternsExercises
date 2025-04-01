@@ -7,7 +7,7 @@ I try to implement one chapter/topic from the book [Game Programming Patterns](h
 
 - [x] Command
 - [x] Flyweight
-- [ ]  Observer
+- [x]  Observer
 - [ ] Prototype
 - [ ] Singleton
 - [ ] State
