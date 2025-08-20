@@ -17,6 +17,8 @@ I try to implement one chapter/topic from the book [Game Programming Patterns](h
 - [ ] Double Buffer
 - [ ] Game Loop
 - [ ] Update Method
+
+### Behavioral Patterns
 - [ ] Behavioral Patterns:
 - [ ] Bytecode
 - [ ] Subclass Sandbox
